@@ -1,0 +1,9 @@
+{
+    "autopep8.args": [
+        "--max-line-length=200",
+        "--experimental",
+        "--aggressive",
+        "--aggressive"
+    ],
+    "editor.formatOnSave": true,
+}
